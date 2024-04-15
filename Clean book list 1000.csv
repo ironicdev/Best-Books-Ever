@@ -1,0 +1,1001 @@
+,Book_Name,Author,Rating,Score,Votes,Average_Rating
+0,"The Hunger Games (The Hunger Games, #1)",Suzanne Collins,8668396,3772841,38386,4.34
+1,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",J.K. Rowling,3383818,3091718,31585,4.5
+2,Pride and Prejudice,Jane Austen,4269914,2682061,27514,4.29
+3,To Kill a Mockingbird,Harper Lee,6124177,2419158,24706,4.26
+4,The Book Thief,Markus Zusak,2558002,1797728,18484,4.39
+5,"Twilight (The Twilight Saga, #1)",Stephenie Meyer,6578163,1668308,17003,3.65
+6,Animal Farm,George Orwell,3884827,1547407,16035,3.99
+7,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,133635,1480611,15361,4.61
+8,"The Chronicles of Narnia (The Chronicles of Narnia, #1-7)",C.S. Lewis,650934,1432186,14931,4.27
+9,The Fault in Our Stars,John Green,5139392,1321431,13682,4.14
+10,The Picture of Dorian Gray,Oscar Wilde,1535241,1210168,12652,4.12
+11,The Giving Tree,Shel Silverstein,1126765,1167108,12087,4.38
+12,Gone with the Wind,Margaret Mitchell,1207948,1160443,11964,4.31
+13,Wuthering Heights,Emily Brontë,1805696,1158774,12099,3.89
+14,The Perks of Being a Wallflower,Stephen Chbosky,1793846,1069361,11148,4.23
+15,Jane Eyre,Charlotte Brontë,2094790,1046119,11001,4.15
+16,"The Lightning Thief (Percy Jackson and the Olympians, #1)",Rick Riordan,3012530,1037749,10890,4.31
+17,The Great Gatsby,F. Scott Fitzgerald,5239571,1007731,10746,3.93
+18,The Little Prince,Antoine de Saint-Exupéry,2112046,1007220,10648,4.32
+19,"The Da Vinci Code (Robert Langdon, #2)",Dan       Brown,2351883,980224,10302,3.91
+20,Alice’s Adventures in Wonderland / Through the Looking-Glass,Lewis Carroll,563745,951847,10037,4.06
+21,Crime and Punishment,Fyodor Dostoevsky,904062,946677,9863,4.27
+22,"Divergent (Divergent, #1)",Veronica Roth,3974929,937060,9829,4.14
+23,Memoirs of a Geisha,Arthur Golden,2001137,936187,9753,4.15
+24,Les Misérables,Victor Hugo,797691,917752,9637,4.2
+25,The Alchemist,Paulo Coelho,3056959,904621,9452,3.91
+26,Lord of the Flies,William Golding,2904562,887464,9425,3.69
+27,Romeo and Juliet,William Shakespeare,2603836,870997,9328,3.74
+28,"Anne of Green Gables (Anne of Green Gables, #1)",L.M. Montgomery,978965,868269,9139,4.31
+29,"City of Bones (The Mortal Instruments, #1)",Cassandra Clare,2000459,828522,8704,4.07
+30,"The Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams,1841209,820509,8507,4.23
+31,The Help,Kathryn Stockett,2764533,808727,8634,4.47
+32,Dracula,Bram Stoker,1275326,792172,8507,4.01
+33,"Ender’s Game (Ender's Saga, #1)",Orson Scott Card,1374170,780621,8141,4.31
+34,Charlotte’s Web,E.B. White,1835145,778134,8385,4.2
+35,Of Mice and Men,John Steinbeck,2547180,764740,8236,3.88
+36,Fahrenheit 451,Ray Bradbury,2417626,739067,7840,3.97
+37,The Catcher in the Rye,J.D. Salinger,3524183,734056,7895,3.8
+38,Brave New World,Aldous Huxley,1855620,718948,7708,3.99
+39,One Hundred Years of Solitude,Gabriel García Márquez,971381,718164,7547,4.11
+40,A Thousand Splendid Suns,Khaled Hosseini,1529771,703530,7438,4.43
+41,The Time Traveler’s Wife,Audrey Niffenegger,1785126,693476,7261,3.99
+42,The Princess Bride,William Goldman,899657,686240,7303,4.27
+43,The Secret Garden,Frances Hodgson Burnett,1170733,681380,7460,4.16
+44,"A Game of Thrones (A Song of Ice and Fire, #1)",George R.R. Martin,2490213,665253,7090,4.44
+45,The Outsiders,S.E. Hinton,1337787,662427,7109,4.13
+46,Little Women,Louisa May Alcott,2233887,634009,6995,4.15
+47,1984,George Orwell,4599492,629532,6748,4.19
+48,"A Wrinkle in Time (Time Quintet, #1)",Madeleine L'Engle,1202491,620335,6630,3.98
+49,The Odyssey,Homer,1080592,594910,6505,3.81
+50,Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley,1597889,581489,6418,3.87
+51,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",J.K. Rowling,3708522,579444,6258,4.62
+52,The Kite Runner,Khaled Hosseini,3149495,577445,6248,4.34
+53,"Harry Potter and the Sorcerer’s Stone (Harry Potter, #1)",J.K. Rowling,10054729,568038,6060,4.47
+54,"The Giver (The Giver, #1)",Lois Lowry,2478871,562093,6086,4.12
+55,"The Handmaid’s Tale (The Handmaid's Tale, #1)",Margaret Atwood,2047282,557623,6078,4.14
+56,The Lovely Bones,Alice Sebold,2353429,556315,6000,3.85
+57,Where the Wild Things Are,Maurice Sendak,1003761,555349,6049,4.24
+58,The Adventures of Huckleberry Finn,Mark Twain,1265569,553884,6100,3.83
+59,Green Eggs and Ham,Dr. Seuss,775720,549499,6037,4.31
+60,Life of Pi,Yann Martel,1624193,536983,5805,3.94
+61,A Tale of Two Cities,Charles Dickens,947222,532360,5838,3.87
+62,Lolita,Vladimir Nabokov,850218,522778,5626,3.88
+63,"Dune (Dune, #1)",Frank Herbert,1358544,518689,5578,4.27
+64,Slaughterhouse-Five,Kurt Vonnegut Jr.,1369717,503934,5440,4.1
+65,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",J.K. Rowling,4185869,501695,5481,4.58
+66,Water for Elephants,Sara Gruen,1615365,498791,5376,4.11
+67,The Bell Jar,Sylvia Plath,960403,460098,5000,4.05
+68,Matilda,Roald Dahl,949428,455203,5033,4.34
+69,The Stand,Stephen King,760669,446572,4819,4.35
+70,Catch-22,Joseph Heller,831264,437313,4772,3.99
+71,"The Adventures of Sherlock Holmes (Sherlock Holmes, #3)",Arthur Conan Doyle,299752,423579,4738,4.3
+72,"The Pillars of the Earth (Kingsbridge, #1)",Ken Follett,763833,423095,4553,4.34
+73,"Watership Down (Watership Down, #1)",Richard  Adams,480866,407698,4456,4.08
+74,Rebecca,Daphne du Maurier,629032,405865,4519,4.24
+75,"The Fellowship of the Ring (The Lord of the Rings, #1)",J.R.R. Tolkien,2808675,402494,4515,4.39
+76,Great Expectations,Charles Dickens,802722,401001,4595,3.79
+77,"Outlander (Outlander, #1)",Diana Gabaldon,1053077,389647,4175,4.26
+78,"The Girl with the Dragon Tattoo (Millennium, #1)",Stieg Larsson,3183175,388634,4327,4.17
+79,The Color Purple,Alice Walker,685472,384805,4343,4.27
+80,One Flew Over the Cuckoo’s Nest,Ken Kesey,732469,379127,4290,4.2
+81,Anna Karenina,Leo Tolstoy,848156,370142,4054,4.09
+82,My Sister’s Keeper,Jodi Picoult,1218291,366945,4037,4.1
+83,The Brothers Karamazov,Fyodor Dostoevsky,332349,348640,3841,4.37
+84,A Tree Grows in Brooklyn,Betty  Smith,465688,339458,3732,4.29
+85,A Clockwork Orange,Anthony Burgess,712146,335969,3781,4.0
+86,The Road,Cormac McCarthy,904587,329069,3613,3.99
+87,And Then There Were None,Agatha Christie,1356203,325208,3576,4.28
+88,To Kill a Mockingbird,Harper Lee,6124177,314611,3395,4.26
+89,"The Golden Compass (His Dark Materials, #1)",Philip Pullman,1525673,310316,3453,4.02
+90,"Vampire Academy (Vampire Academy, #1)",Richelle Mead,644608,307857,3309,4.11
+91,It,Stephen King,1110952,307466,3308,4.24
+92,Siddhartha,Hermann Hesse,771426,306508,3418,4.07
+93,"Angela’s Ashes (Frank McCourt, #1)",Frank McCourt,629252,304339,3398,4.14
+94,"The Shining (The Shining, #1)",Stephen King,1489114,303928,3352,4.27
+95,The Complete Stories and Poems,Edgar Allan Poe,249751,299838,3390,4.39
+96,"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,589152,294900,3295,4.02
+97,Don Quixote,Miguel de Cervantes Saavedra,270734,292933,3323,3.9
+98,The Poisonwood Bible,Barbara Kingsolver,743806,287325,3157,4.1
+99,The Old Man and the Sea,Ernest Hemingway,1148484,286757,3288,3.8
+100,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",J.K. Rowling,3695671,273140,3077,4.57
+101,Atlas Shrugged,Ayn Rand,390167,258880,2846,3.69
+102,"The Notebook (The Notebook, #1)",Nicholas Sparks,1691189,256797,2889,4.15
+103,"Winnie-the-Pooh (Winnie-the-Pooh, #1)",A.A. Milne,327357,251088,2942,4.36
+104,Fahrenheit 451,Ray Bradbury,2417626,246355,2704,3.97
+105,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",J.K. Rowling,3275100,231193,2649,4.58
+106,"Moby-Dick or, The Whale",Herman Melville,560808,226366,2599,3.54
+107,A Prayer for Owen Meany,John Irving,320931,219169,2409,4.24
+108,"Clockwork Angel (The Infernal Devices, #1)",Cassandra Clare,830258,196563,2158,4.31
+109,The Stranger,Albert Camus,1094714,190298,2163,4.02
+110,The Secret Life of Bees,Sue Monk Kidd,1291298,187447,2147,4.09
+111,The Red Tent,Anita Diamant,598800,185459,2077,4.2
+112,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",J.K. Rowling,3929019,183114,2163,4.43
+113,"The Name of the Wind (The Kingkiller Chronicle, #1)",Patrick Rothfuss,961674,178066,1891,4.52
+114,The Master and Margarita,Mikhail Bulgakov,353454,173457,1891,4.29
+115,The Metamorphosis,Franz Kafka,1058039,171493,1998,3.86
+116,"The Hobbit (The Lord of the Rings, #0)",J.R.R. Tolkien,3974167,166163,1936,4.29
+117,Middlesex,Jeffrey Eugenides,639193,160874,1798,4.03
+118,"Eragon (The Inheritance Cycle, #1)",Christopher Paolini,1777135,160441,1829,3.95
+119,Looking for Alaska,John Green,1599375,158228,1732,3.97
+120,The Adventures of Tom Sawyer,Mark Twain,936353,157535,1940,3.92
+121,"Charlie and the Chocolate Factory (Charlie Bucket, #1)",Roald Dahl,851469,156992,1880,4.16
+122,The Very Hungry Caterpillar,Eric Carle,510355,156590,1820,4.33
+123,The Count of Monte Cristo,Alexandre Dumas,913780,156219,1783,4.3
+124,"The Last Olympian (Percy Jackson and the Olympians, #5)",Rick Riordan,1003089,154913,1761,4.55
+125,The Curious Incident of the Dog in the Night-Time,Mark Haddon,1479059,152103,1750,3.89
+126,"The Shadow of the Wind (The Cemetery of Forgotten Books, #1)",Carlos Ruiz Zafón,635573,151565,1678,4.3
+127,"The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",C.S. Lewis,2799004,149386,1836,4.24
+128,Tuesdays with Morrie,Mitch Albom,1027470,149020,1702,4.17
+129,The Unbearable Lightness of Being,Milan Kundera,469656,146629,1646,4.11
+130,On the Road,Jack Kerouac,411267,145991,1661,3.61
+131,The Name of the Rose,Umberto Eco,364682,144539,1678,4.14
+132,"The Godfather (The Godfather, #1)",Mario Puzo,420548,141633,1668,4.39
+133,Where the Red Fern Grows,Wilson Rawls,406615,141547,1647,4.11
+134,"Holes (Holes, #1)",Louis Sachar,1199715,139726,1656,4.0
+135,In Cold Blood,Truman Capote,659424,138845,1645,4.09
+136,Perfume: The Story of a Murderer,Patrick Süskind,468568,137416,1560,4.04
+137,The Scarlet Letter,Nathaniel Hawthorne,865350,137090,1702,3.43
+138,Fight Club,Chuck Palahniuk,591777,134947,1556,4.19
+139,The Five People You Meet in Heaven,Mitch Albom,720534,132751,1526,3.99
+140,American Gods,Neil Gaiman,925318,131254,1490,4.11
+141,The Divine Comedy,Dante Alighieri,152638,129323,1526,4.08
+142,"The Cat in the Hat (The Cat in the Hat, #1)",Dr. Seuss,540784,129278,1596,4.19
+143,Watchmen,Alan Moore,558146,129209,1462,4.38
+144,All Quiet on the Western Front,Erich Maria Remarque,460079,127194,1486,4.07
+145,"Hush, Hush (Hush, Hush, #1)",Becca Fitzpatrick,704684,127082,1406,3.93
+146,"The Little House Collection (Little House, #1-9)",Laura Ingalls Wilder,152994,126622,1498,4.35
+147,A Story of Yesterday,Sergio Cobo,13013,126200,1262,4.6
+148,"Lonesome Dove (Lonesome Dove, #1)",Larry McMurtry,190887,125334,1409,4.53
+149,"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",Terry Pratchett,748634,123950,1400,4.26
+150,Peter Pan,J.M. Barrie,347298,122397,1520,4.04
+151,"Six of Crows (Six of Crows, #1)",Leigh Bardugo,947870,122396,1306,4.49
+152,The Addiction Manifesto,Jerry Weaver,1155,115064,1151,4.82
+153,Love in the Time of Cholera,Gabriel García Márquez,504704,114314,1359,3.94
+154,"Insurgent (Divergent, #2)",Veronica Roth,1498900,113244,1293,3.97
+155,A Walk to Remember,Nicholas Sparks,804884,111925,1305,4.2
+156,"The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",Rick Riordan,1082319,111105,1299,4.42
+157,"The Titan’s Curse (Percy Jackson and the Olympians, #3)",Rick Riordan,1056183,110504,1312,4.37
+158,The Thorn Birds,Colleen McCullough,349953,110177,1333,4.24
+159,The Compleat Works of Wllm Shkspr,Reduced Shakespeare Company,9388,108688,1251,4.44
+160,"Shadow Kiss (Vampire Academy, #3)",Richelle Mead,365807,108427,1206,4.34
+161,How the Grinch Stole Christmas!,Dr. Seuss,413914,107931,1387,4.38
+162,"Clockwork Princess (The Infernal Devices, #3)",Cassandra Clare,444876,107713,1198,4.56
+163,"Catching Fire (The Hunger Games, #2)",Suzanne Collins,3680328,107428,1271,4.33
+164,"The Ultimate Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",Douglas Adams,323151,107287,1261,4.38
+165,"The Sea of Monsters (Percy Jackson and the Olympians, #2)",Rick Riordan,1172907,106082,1263,4.24
+166,Their Eyes Were Watching God,Zora Neale Hurston,347242,105753,1221,3.98
+167,The Importance of Being Earnest,Oscar Wilde,370509,105277,1305,4.17
+168,"The Wonderful Wizard of Oz (Oz, #1)",L. Frank Baum,453266,103932,1353,4.0
+169,Atonement,Ian McEwan,519740,103781,1239,3.94
+170,"Eat, Pray, Love",Elizabeth Gilbert,1743560,103274,1194,3.63
+171,The Three Musketeers,Alexandre Dumas,322478,103172,1291,4.09
+172,"The Maze Runner (The Maze Runner, #1)",James Dashner,1528407,102379,1174,4.05
+173,The Lorax,Dr. Seuss,343700,101836,1244,4.35
+174,Goodnight Moon,Margaret Wise Brown,373882,100629,1251,4.31
+175,The Haunting of Hill House,Shirley Jackson,303371,98440,1039,3.82
+176,A Midsummer Night’s Dream,William Shakespeare,540333,98244,1282,3.95
+177,"Throne of Glass (Throne of Glass, #1)",Sarah J. Maas,1481396,97992,1077,4.19
+178,"Frostbite (Vampire Academy, #2)",Richelle Mead,355221,97563,1109,4.26
+179,The Secret History,Donna Tartt,742286,96153,1062,4.17
+180,"The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",Suzanne Collins,221283,96116,1130,4.49
+181,Tess of the D’Urbervilles,Thomas Hardy,283588,94835,1162,3.83
+182,Heart of Darkness,Joseph Conrad,513097,94631,1168,3.43
+183,Bridge to Terabithia,Katherine Paterson,546291,93774,1176,4.05
+184,The Song of Achilles,Madeline Miller,1485735,93517,996,4.33
+185,"Murder on the Orient Express (Hercule Poirot, #10)",Agatha Christie,622341,93455,1182,4.2
+186,"Blood Promise (Vampire Academy, #4)",Richelle Mead,313084,92554,1056,4.3
+187,The Prophet,Kahlil Gibran,298689,92191,1109,4.23
+188,"The Good Earth (House of Earth, #1)",Pearl S. Buck,249709,90632,1106,4.0
+189,The Call of the Wild,Jack London,430353,90225,1172,3.9
+190,The Joy Luck Club,Amy Tan,683188,89552,1119,3.97
+191,Alice in Wonderland,Jane Carruth,389772,89293,1161,4.03
+192,"The Selection (The Selection, #1)",Kiera Cass,1553212,88834,998,4.08
+193,"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,548366,88626,1076,4.24
+194,"A Court of Mist and Fury (A Court of Thorns and Roses, #2)",Sarah J. Maas,1868601,88583,946,4.65
+195,The Phantom Tollbooth,Norton Juster,286796,88520,1039,4.2
+196,The Night Circus,Erin Morgenstern,975204,88305,995,4.02
+197,"Oh, the Places You’ll Go!",Dr. Seuss,406791,88128,1119,4.36
+198,Madame Bovary,Gustave Flaubert,334570,87849,1100,3.7
+199,"The Mists of Avalon (Avalon, #1)",Marion Zimmer Bradley,206422,87634,1039,4.13
+200,The Neverending Story,Michael Ende,201365,87331,1061,4.18
+201,Oliver Twist,Charles Dickens,388738,86611,1164,3.88
+202,Treasure Island,Robert Louis Stevenson,489281,86529,1158,3.84
+203,Jonathan Livingston Seagull,Richard Bach,251703,86491,1057,3.86
+204,Ulysses,James Joyce,127977,84111,998,3.75
+205,"The Girl Who Played with Fire (Millennium, #2)",Stieg Larsson,923239,84077,1045,4.25
+206,The Diary of a Young Girl,Anne Frank,3731882,83021,1034,4.19
+207,"A Storm of Swords (A Song of Ice and Fire, #3)",George R.R. Martin,783334,82594,958,4.54
+208,"Fifty Shades of Grey (Fifty Shades, #1)",E.L. James,2607667,81999,924,3.66
+209,The Boy in the Striped Pajamas,John Boyne,830515,81395,999,4.16
+210,"Jurassic Park (Jurassic Park, #1)",Michael Crichton,958518,79811,988,4.1
+211,Misery,Stephen King,698375,79693,970,4.21
+212,"The Clan of the Cave Bear (Earth's Children, #1)",Jean M. Auel,267104,79281,979,4.09
+213,Beloved,Toni Morrison,435441,79104,969,3.95
+214,A Farewell to Arms,Ernest Hemingway,321819,78128,1001,3.82
+215,The Canterbury Tales,Geoffrey Chaucer,221810,77494,1031,3.52
+216,David Copperfield,Charles Dickens,238639,77024,1012,4.03
+217,The World According to Garp,John Irving,228602,76465,950,4.1
+218,"The Lost Hero (The Heroes of Olympus, #1)",Rick Riordan,846132,76336,916,4.31
+219,A Little Princess,Frances Hodgson Burnett,306230,76279,964,4.22
+220,Thirteen Reasons Why,Jay Asher,970426,76060,872,3.85
+221,His Dark Materials (His Dark Materials #1-3),Philip Pullman,161331,74077,864,4.29
+222,The Green Mile,Stephen King,320304,73017,906,4.48
+223,"Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)",Gregory Maguire,597526,72965,885,3.54
+224,The Chain Between Worlds (The Lost Artefacts #1),Johnathon Nicolaou,1134,72933,731,4.5
+225,Schindler’s List,Thomas Keneally,160236,72480,952,4.34
+226,"Shōgun (Asian Saga, #1)",James Clavell,180188,72198,882,4.41
+227,"Clockwork Prince (The Infernal Devices, #2)",Cassandra Clare,552202,72077,846,4.43
+228,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,3004288,72001,766,4.42
+229,The Silmarillion,J.R.R. Tolkien,292867,71259,855,4.01
+230,"Cinder (The Lunar Chronicles, #1)",Marissa Meyer,924370,70794,813,4.13
+231,The Velveteen Rabbit,Margery Williams Bianco,258226,70786,940,4.3
+232,The Iliad / The Odyssey,Homer,75952,70478,922,4.06
+233,Extremely Loud & Incredibly Close,Jonathan Safran Foer,420966,70118,801,3.97
+234,The Trial,Franz Kafka,325714,70095,858,3.96
+235,"The Other Boleyn Girl (The Plantagenet and Tudor Novels, #9)",Philippa Gregory,497755,68876,847,4.08
+236,"Fallen (Fallen, #1)",Lauren Kate,586099,67918,786,3.72
+237,"Last Sacrifice (Vampire Academy, #6)",Richelle Mead,287484,67636,795,4.37
+238,Gone Girl,Gillian Flynn,3091531,66774,793,4.13
+239,The Sun Also Rises,Ernest Hemingway,444911,66675,851,3.79
+240,A Confederacy of Dunces,John Kennedy Toole,275488,66623,771,3.89
+241,Man’s Search for Meaning,Viktor E. Frankl,714031,66613,776,4.37
+242,"Howl’s Moving Castle (Howl’s Moving Castle, #1)",Diana Wynne Jones,356625,66071,781,4.29
+243,The Secret Magdalene,Ki Longfellow,4588,65329,670,4.15
+244,The Crucible: A Play in Four Acts,Arthur Miller,408494,64258,854,3.6
+245,Cat’s Cradle,Kurt Vonnegut Jr.,402950,63832,781,4.16
+246,A Light in the Attic,Shel Silverstein,447000,63487,838,4.36
+247,"City of Fallen Angels (The Mortal Instruments, #4)",Cassandra Clare,601235,63439,782,4.08
+248,The Screwtape Letters,C.S. Lewis,447371,63392,777,4.26
+249,The Wind in the Willows,Kenneth Grahame,218294,63057,838,4.01
+250,"Spirit Bound (Vampire Academy, #5)",Richelle Mead,294569,62970,746,4.33
+251,The Phantom of the Opera,Gaston Leroux,241932,62950,797,3.96
+252,The God of Small Things,Arundhati Roy,298037,62270,731,3.95
+253,The Hiding Place: The Triumphant True Story of Corrie Ten Boom,Corrie ten Boom,324579,61235,733,4.46
+254,Blindness,José Saramago,289808,60962,706,4.17
+255,Girl with a Pearl Earring,Tracy Chevalier,736706,60488,788,3.93
+256,"Ella Enchanted (Ella Enchanted, #1)",Gail Carson Levine,412825,59714,740,4.01
+257,"A Clash of Kings  (A Song of Ice and Fire, #2)",George R.R. Martin,935243,59703,734,4.42
+258,"Uglies (Uglies, #1)",Scott Westerfeld,663757,58721,700,3.85
+259,The Wind-Up Bird Chronicle,Haruki Murakami,283511,58700,660,4.15
+260,Marley and Me: Life and Love With the World’s Worst Dog,John Grogan,469325,58421,732,4.14
+261,"Mockingjay (The Hunger Games, #3)",Suzanne Collins,3227324,57706,728,4.09
+262,She’s Come Undone,Wally Lamb,346427,57501,697,3.91
+263,The House of the Spirits,Isabel Allende,269575,57436,717,4.28
+264,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,752941,56979,701,4.19
+265,"Shiver (The Wolves of Mercy Falls, #1)",Maggie Stiefvater,480913,56916,661,3.76
+266,The Lord of the Rings,J.R.R. Tolkien,676219,56692,680,4.53
+267,"Marked (House of Night, #1)",P.C. Cast,495963,56223,661,3.81
+268,Norwegian Wood,Haruki Murakami,602150,55668,636,4.01
+269,Speak,Laurie Halse Anderson,592529,55548,675,4.05
+270,The Sound and the Fury,William Faulkner,182063,55425,693,3.85
+271,The Shack,William Paul Young,651482,55399,659,3.83
+272,Fear and Loathing in Las Vegas,Hunter S. Thompson,349216,55303,671,4.07
+273,The Complete Calvin and Hobbes,Bill Watterson,40236,55094,688,4.81
+274,For Whom the Bell Tolls,Ernest Hemingway,293614,54925,752,3.98
+275,Island of the Blue Dolphins,Scott O'Dell,332541,54010,697,3.87
+276,Roots: The Saga of an American Family,Alex Haley,159754,53284,702,4.44
+277,Kafka on the Shore,Haruki Murakami,468981,53075,601,4.13
+278,"Crooked Kingdom (Six of Crows, #2)",Leigh Bardugo,638841,53062,572,4.6
+279,Stranger in a Strange Land,Robert A. Heinlein,312688,53024,663,3.92
+280,Paper Towns,John Green,1357706,52873,622,3.71
+281,Othello,William Shakespeare,389823,52394,748,3.89
+282,The Complete Sherlock Holmes,Arthur Conan Doyle,198207,52352,679,4.5
+283,Into the Wild,Jon Krakauer,1090350,52099,659,4.01
+284,The Idiot,Fyodor Dostoevsky,182729,52076,660,4.21
+285,"The Girl Who Kicked the Hornet’s Nest (Millennium, #3)",Stieg Larsson,735181,51905,667,4.24
+286,"The Way of Kings (The Stormlight Archive, #1)",Brandon Sanderson,493889,51861,547,4.66
+287,"Inkheart (Inkworld, #1)",Cornelia Funke,423851,51639,653,3.92
+288,"Neverwhere (London Below, #1)",Neil Gaiman,530067,51502,629,4.17
+289,"The Vampire Lestat (The Vampire Chronicles, #2)",Anne Rice,200376,51343,657,4.09
+290,King Lear,William Shakespeare,218898,50903,695,3.91
+291,The Things They Carried,Tim O'Brien,313591,50850,614,4.14
+292,"Delirium (Delirium, #1)",Lauren Oliver,466371,50822,584,3.95
+293,Invisible Man,Ralph Ellison,187895,50601,630,3.91
+294,White Oleander,Janet Fitch,353296,50508,629,3.99
+295,"Beautiful Disaster (Beautiful, #1)",Jamie McGuire,682836,50481,570,4.01
+296,Blood River: A Journey to Africa’s Broken Heart,Tim Butcher,11386,50382,510,3.98
+297,Uncle Tom’s Cabin,Harriet Beecher Stowe,227357,50075,693,3.91
+298,Different Seasons,Stephen King,205271,49647,650,4.35
+299,Midnight Sun [2008 Draft],Stephenie Meyer,148516,48761,572,4.01
+300,"All Creatures Great and Small (All Creatures Great and Small, #1-2)",James Herriot,146648,48678,643,4.35
+301,"Foundation (Foundation, #1)",Isaac Asimov,539162,48488,592,4.17
+302,"The Once and Future King (The Once and Future King, #1-4)",T.H. White,108156,48470,607,4.07
+303,Never Let Me Go,Kazuo Ishiguro,694319,48185,582,3.85
+304,I Know This Much Is True,Wally Lamb,312468,47989,573,4.2
+305,Flow Down Like Silver,Ki Longfellow,4480,47789,494,4.0
+306,James and the Giant Peach,Roald Dahl,473466,47704,671,4.03
+307,"Ready Player One (Ready Player One, #1)",Ernest Cline,1167841,47662,540,4.23
+308,The Historian,Elizabeth Kostova,265547,47466,569,3.8
+309,"Wonder (Wonder, #1)",R.J. Palacio,1086198,47373,551,4.37
+310,"Lamb: The Gospel According to Biff, Christ’s Childhood Pal",Christopher Moore,173692,47357,529,4.23
+311,Candide,Voltaire,276591,47301,622,3.76
+312,The Time Machine,H.G. Wells,519126,47230,660,3.9
+313,Paradise Lost,John Milton,165935,47082,632,3.84
+314,The Complete Works,William Shakespeare,55341,46916,609,4.48
+315,The Thirteenth Tale,Diane Setterfield,313105,46430,562,3.98
+316,Heidi,Johanna Spyri,199366,46397,644,4.03
+317,"The Son of Neptune (The Heroes of Olympus, #2)",Rick Riordan,590431,46386,582,4.41
+318,"Shatter Me (Shatter Me, #1)",Tahereh Mafi,882267,46108,518,3.86
+319,Leaves of Grass,Walt Whitman,103163,46048,624,4.12
+320,"The Wise Man’s Fear (The Kingkiller Chronicle, #2)",Patrick Rothfuss,556429,45903,508,4.55
+321,"City of Lost Souls (The Mortal Instruments, #5)",Cassandra Clare,531323,45581,566,4.22
+322,"The Mark of Athena (The Heroes of Olympus, #3)",Rick Riordan,601129,45544,557,4.47
+323,"Graceling (Graceling Realm, #1)",Kristin Cashore,461385,44996,534,4.07
+324,The Cider House Rules,John Irving,185209,44332,598,4.16
+325,"Are You There God? It’s Me, Margaret",Judy Blume,239607,44327,594,3.94
+326,"The Final Empire (Mistborn, #1)",Brandon Sanderson,689502,44203,488,4.48
+327,"Me Before You (Me Before You, #1)",Jojo Moyes,1629194,43997,509,4.26
+328,’Salem’s Lot,Stephen King,455961,43625,551,4.06
+329,Walden,Henry David Thoreau,189243,43053,582,3.78
+330,Fangirl,Rainbow Rowell,745544,42979,496,3.95
+331,The Martian,Andy Weir,1121357,42786,501,4.42
+332,"A Court of Thorns and Roses (A Court of Thorns and Roses, #1)",Sarah J. Maas,2494237,42747,488,4.2
+333,East of Eden,John Steinbeck,538985,42449,504,4.41
+334,Sophie’s World,Jostein Gaarder,259435,42185,512,3.96
+335,Mrs. Dalloway,Virginia Woolf,306542,41999,547,3.79
+336,"Legend (Legend, #1)",Marie Lu,529170,41731,475,4.16
+337,Fried Green Tomatoes at the Whistle Stop Cafe (Whistle Stop #1),Fannie Flagg,306653,41394,573,4.28
+338,"The Hound of the Baskervilles (Sherlock Holmes, #5)",Arthur Conan Doyle,345879,41389,567,4.13
+339,The Awakening,Kate Chopin,208678,41229,525,3.68
+340,Hamlet,William Shakespeare,952196,41011,513,4.02
+341,The Complete Maus,Art Spiegelman,220269,40684,515,4.57
+342,All the Light We Cannot See,Anthony Doerr,1661958,40188,465,4.32
+343,Sophie’s Choice,William Styron,91067,39978,544,4.17
+344,The Graveyard Book,Neil Gaiman,538811,39685,500,4.16
+345,Middlemarch,George Eliot,162917,39586,494,4.02
+346,"Fifty Shades Darker (Fifty Shades, #2)",E.L. James,909881,39503,467,3.83
+347,The Prince of Tides,Pat Conroy,208551,39469,520,4.25
+348,Stardust,Neil Gaiman,454008,39421,507,4.1
+349,The Monster at the End of this Book,Jon Stone,125025,39408,488,4.46
+350,Do Androids Dream of Electric Sheep?,Philip K. Dick,451904,39265,505,4.09
+351,"Dead Until Dark (Sookie Stackhouse, #1)",Charlaine Harris,540224,39093,494,3.97
+352,"Things Fall Apart (The African Trilogy, #1)",Chinua Achebe,371944,38930,506,3.73
+353,Number the Stars,Lois Lowry,567943,38561,508,4.19
+354,Eleanor & Park,Rainbow Rowell,1171502,38550,450,3.94
+355,"A Time to Kill (Jake Brigance, #1)",John Grisham,801213,38477,520,4.11
+356,Black Beauty,Anna Sewell,278377,38371,554,3.99
+357,"Bridget Jones’s Diary (Bridget Jones, #1)",Helen Fielding,983122,38153,525,3.8
+358,"The Magician’s Nephew (Chronicles of Narnia, #6)",C.S. Lewis,541392,38062,530,4.05
+359,V for Vendetta,Alan Moore,308879,37689,493,4.26
+360,Franny and Zooey,J.D. Salinger,222209,37543,481,3.96
+361,The Art of Racing in the Rain,Garth Stein,520375,37283,441,4.23
+362,"Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante, #1)",Benjamin Alire Sáenz,600599,37214,405,4.31
+363,The Witches,Roald Dahl,395953,37133,496,4.18
+364,"The Gunslinger (The Dark Tower, #1)",Stephen King,610876,37061,455,3.92
+365,The Cruel Prince (Folk of the Air #1),Holly Black,1212992,36917,404,4.05
+366,A Short History of Nearly Everything,Bill Bryson,386121,36794,445,4.21
+367,American Psycho,Bret Easton Ellis,314137,36659,439,3.81
+368,Love You Forever,Robert Munsch,237125,36466,462,4.37
+369,White Fang,Jack London,189965,36428,518,4.02
+370,Beowulf,Unknown,311151,36389,518,3.48
+371,"Allegiant (Divergent, #3)",Veronica Roth,1053042,36372,451,3.6
+372,"The Power of One (The Power of One, #1)",Bryce Courtenay,88935,36331,417,4.35
+373,The Complete Novels,Jane Austen,33014,35956,486,4.57
+374,"If I Stay (If I Stay, #1)",Gayle Forman,906371,35875,433,3.92
+375,"Harry Potter Series Box Set (Harry Potter, #1-7)",J.K. Rowling,287722,35825,432,4.74
+376,Gulliver’s Travels,Jonathan Swift,274006,35683,546,3.58
+377,"The Eye of the World (The Wheel of Time, #1)",Robert Jordan,531382,35359,412,4.19
+378,A Portrait of the Artist as a Young Man,James Joyce,151914,35102,464,3.64
+379,War and Peace,Leo Tolstoy,328134,34933,423,4.16
+380,Tuck Everlasting,Natalie Babbitt,274281,34673,471,3.9
+381,"Fifty Shades Freed (Fifty Shades, #3)",E.L. James,856043,34669,413,3.83
+382,Bel Canto,Ann Patchett,283459,34382,418,3.93
+383,"A Child Called ""It"" (Dave Pelzer, #1)",Dave Pelzer,434278,34280,441,4.13
+384,القرآن الكريم,Anonymous,68098,33992,383,4.38
+385,11/22/63,Stephen King,540768,33839,404,4.33
+386,Go Ask Alice,Beatrice Sparks,275460,33422,447,3.74
+387,Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,580609,33345,474,3.83
+388,"It Ends with Us (It Ends with Us, #1)",Colleen Hoover,3335121,33344,360,4.17
+389,The Tell-Tale Heart and Other Writings,Edgar Allan Poe,240056,33338,489,4.19
+390,The Martian Chronicles,Ray Bradbury,262126,33331,441,4.15
+391,Cold Mountain,Charles Frazier,242749,33201,454,3.88
+392,"The House of Hades (The Heroes of Olympus, #4)",Rick Riordan,413967,33096,407,4.57
+393,"Dark Lover (Black Dagger Brotherhood, #1)",J.R. Ward,336359,33079,390,4.16
+394,As I Lay Dying,William Faulkner,168382,32805,440,3.72
+395,Mansfield Park,Jane Austen,349661,32745,464,3.86
+396,Cloud Atlas,David Mitchell,248826,32653,393,4.01
+397,Steppenwolf,Hermann Hesse,185535,32620,416,4.13
+398,"Eldest (The Inheritance Cycle, #2)",Christopher Paolini,444754,32575,420,4.03
+399,The Hunchback of Notre-Dame,Victor Hugo,201166,32540,467,4.02
+400,Tao Te Ching,Lao Tzu,157615,32465,412,4.3
+401,"Beautiful Creatures (Caster Chronicles, #1)",Kami Garcia,599502,32462,402,3.77
+402,Inferno,Dante Alighieri,182118,32427,439,4.02
+403,A Separate Peace,John Knowles,218899,32310,439,3.59
+404,"Brisingr (The Inheritance Cycle, #3)",Christopher Paolini,374746,31944,414,4.09
+405,The Grapes of Wrath,John Steinbeck,906618,31907,422,4.01
+406,"Obsidian (Lux, #1)",Jennifer L. Armentrout,282243,31848,360,4.14
+407,"Heir of Fire (Throne of Glass, #3)",Sarah J. Maas,871995,31659,366,4.46
+408,The BFG,Roald Dahl,482178,31626,427,4.23
+409,"Ignite Me (Shatter Me, #3)",Tahereh Mafi,474235,31179,348,4.47
+410,Robinson Crusoe,Daniel Defoe,304675,31032,464,3.68
+411,زندگی مه آلود پریا,سید مرتضی مصطفوی,1012,30907,311,3.31
+412,The Amazing Adventures of Kavalier & Clay,Michael Chabon,202700,30842,380,4.18
+413,Room,Emma Donoghue,803915,30804,382,4.08
+414,"Stargirl (Stargirl, #1)",Jerry Spinelli,326571,30756,371,3.77
+415,"Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus, #1)",Robert M. Pirsig,230395,30592,388,3.78
+416,Doctor Zhivago,Boris Pasternak,96765,30419,457,4.01
+417,"The Amber Spyglass (His Dark Materials, #3)",Philip Pullman,360063,30399,391,4.1
+418,Midnight’s Children,Salman Rushdie,123783,30162,367,3.98
+419,The English Patient,Michael Ondaatje,132019,30152,413,3.87
+420,"City of Heavenly Fire (The Mortal Instruments, #6)",Cassandra Clare,383866,30136,377,4.39
+421,Dear John,Nicholas Sparks,598420,30030,384,4.04
+422,The Last Song,Nicholas Sparks,554591,30013,371,4.16
+423,The Firm,John Grisham,624485,29936,438,4.06
+424,The Remains of the Day,Kazuo Ishiguro,303673,29602,406,4.14
+425,The Plague,Albert Camus,263758,29522,400,4.02
+426,"Crescendo (Hush, Hush, #2)",Becca Fitzpatrick,322965,29404,364,3.98
+427,"Flowers in the Attic (Dollanganger, #1)",V.C. Andrews,213441,29382,382,3.85
+428,"Miss Peregrine's Home for Peculiar Children (Miss Peregrine's Peculiar Children, #1)",Ransom Riggs,1262358,29335,369,3.92
+429,Like Water for Chocolate,Laura Esquivel,366822,29156,411,3.95
+430,A Little Life,Hanya Yanagihara,618866,29070,305,4.34
+431,My Ántonia,Willa Cather,137890,28879,394,3.83
+432,"Dragonfly in Amber (Outlander, #2)",Diana Gabaldon,356187,28790,363,4.34
+433,Midnight in the Garden of Good and Evil,John Berendt,270327,28450,400,3.92
+434,Coraline,Neil Gaiman,692201,28376,369,4.12
+435,"Red Queen (Red Queen, #1)",Victoria Aveyard,1009613,28361,321,4.0
+436,Breakfast at Tiffany’s and Three Stories,Truman Capote,264822,28298,397,3.85
+437,Breakfast of Champions,Kurt Vonnegut Jr.,260586,28266,359,4.07
+438,The Origin of Species,Charles Darwin,114578,28236,388,4.01
+439,A Streetcar Named Desire,Tennessee Williams,310641,28117,425,3.98
+440,"Blood Meridian, or, the Evening Redness in the West",Cormac McCarthy,164576,28109,323,4.16
+441,All the Bright Places,Jennifer Niven,564628,27791,303,4.13
+442,"The Subtle Knife (His Dark Materials, #2)",Philip Pullman,435565,27776,372,4.15
+443,"Crown of Midnight (Throne of Glass, #2)",Sarah J. Maas,1006268,27775,331,4.36
+444,"Daughter of Smoke & Bone (Daughter of Smoke & Bone, #1)",Laini Taylor,369281,27763,328,3.99
+445,"Hopeless (Hopeless, #1)",Colleen Hoover,570204,27744,311,4.25
+446,The Prince,Niccolò Machiavelli,337638,27741,388,3.84
+447,A Fine Balance,Rohinton Mistry,149484,27491,328,4.37
+448,"The One (The Selection, #3)",Kiera Cass,686533,27401,323,4.15
+449,Infinite Jest,David Foster Wallace,91915,27177,298,4.26
+450,Death of a Salesman,Arthur Miller,234409,27055,419,3.57
+451,"A Good Girl's Guide to Murder (A Good Girl's Guide to Murder, #1)",Holly  Jackson,1045256,26934,285,4.33
+452,"Unbroken: A World War II Story of Survival, Resilience and Redemption",Laura Hillenbrand,934856,26887,323,4.38
+453,"Evermore (The Immortals, #1)",Alyson Noel,290464,26747,324,3.59
+454,The Virgin Suicides,Jeffrey Eugenides,338053,26664,343,3.8
+455,"A Feast for Crows (A Song of Ice and Fire, #4)",George R.R. Martin,731091,26638,349,4.16
+456,Carrie,Stephen King,721765,26528,369,3.99
+457,"Pippi Longstocking (Pippi Långstrump, #1)",Astrid Lindgren,199933,26455,386,4.15
+458,"I Know Why the Caged Bird Sings (Maya Angelou's Autobiography, #1)",Maya Angelou,531036,25986,364,4.29
+459,Jonathan Strange & Mr. Norrell,Susanna Clarke,236401,25853,319,3.86
+460,The Scarlet Pimpernel,Emmuska Orczy,135441,25720,333,4.07
+461,Snow Flower and the Secret Fan,Lisa See,372491,25665,327,4.09
+462,"The Host (The Host, #1)",Stephenie Meyer,1006403,25615,317,3.86
+463,"The Angel Experiment (Maximum Ride, #1)",James Patterson,224653,25419,313,4.07
+464,"Anna and the French Kiss (Anna and the French Kiss, #1)",Stephanie Perkins,451612,25369,295,3.97
+465,"Matched (Matched, #1)",Ally Condie,779343,25271,316,3.63
+466,Pet Sematary,Stephen King,591731,25179,334,4.06
+467,"Artemis Fowl (Artemis Fowl, #1)",Eoin Colfer,546583,25150,327,3.86
+468,"Faust, First Part",Johann Wolfgang von Goethe,76002,25134,340,3.85
+469,High Fidelity,Nick Hornby,201535,25002,312,3.91
+470,"The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",Erik Larson,682707,24999,327,4.0
+471,Where the Crawdads Sing,Delia Owens,2990410,24906,279,4.39
+472,The Shipping News,Annie Proulx,146093,24843,341,3.88
+473,"Queen of Shadows (Throne of Glass, #4)",Sarah J. Maas,769363,24804,286,4.6
+474,Circe,Madeline Miller,1053303,24704,279,4.24
+475,We Were Liars,E. Lockhart,1145173,24685,275,3.67
+476,Northanger Abbey,Jane Austen,401184,24664,360,3.85
+477,The Tales of Beedle the Bard,J.K. Rowling,488416,24566,353,4.04
+478,"The Chosen (Reuven Malther, #1)",Chaim Potok,93402,24518,333,4.07
+479,Houdini Heart,Ki Longfellow,5464,24357,252,3.84
+480,Shantaram,Gregory David Roberts,216137,24217,274,4.27
+481,Nineteen Minutes,Jodi Picoult,370700,24106,302,4.16
+482,Waiting for Godot,Samuel Beckett,201650,23886,321,3.84
+483,To the Lighthouse,Virginia Woolf,183375,23796,321,3.8
+484,"Neuromancer (Sprawl, #1)",William Gibson,326994,23612,294,3.9
+485,"The Hate U Give (The Hate U Give, #1)",Angie Thomas,897816,23585,269,4.47
+486,Persuasion,Jane Austen,702423,23577,302,4.15
+487,"The Voyage of the Dawn Treader (Chronicles of Narnia, #3)",C.S. Lewis,469592,23559,340,4.09
+488,Redeeming Love,Francine Rivers,321881,23476,267,4.51
+489,The Reader,Bernhard Schlink,210795,23432,332,3.78
+490,"I, Robot (Robot, #0.1)",Isaac Asimov,346477,23336,324,4.21
+491,"The Lost Symbol (Robert Langdon, #3)",Dan       Brown,608851,23134,299,3.75
+492,The Age of Innocence,Edith Wharton,174523,22978,321,3.97
+493,"Red, White & Royal Blue",Casey McQuiston,988667,22913,253,4.09
+494,"A Dance with Dragons (A Song of Ice and Fire, #5)",George R.R. Martin,652560,22812,302,4.34
+495,The Exorcist,William Peter Blatty,234578,22701,322,4.2
+496,Dubliners,James Joyce,156218,22585,319,3.84
+497,The Waste Land,T.S. Eliot,54020,22549,313,4.11
+498,"The Return of the King (The Lord of the Rings, #3)",J.R.R. Tolkien,903946,22116,303,4.56
+499,The Invisible Life of Addie LaRue,V.E.  Schwab,1067410,22028,243,4.19
+500,Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells,557159,21982,323,3.85
+501,"Lover Awakened (Black Dagger Brotherhood, #3)",J.R. Ward,180445,21841,266,4.43
+502,The Twilight Collection,Stephenie Meyer,46470,21835,279,3.81
+503,"Betrayed (House of Night, #2)",P.C. Cast,267214,21834,285,3.92
+504,The Pearl,John Steinbeck,237997,21831,340,3.53
+505,The Goldfinch,Donna Tartt,925312,21756,254,3.94
+506,The Republic,Plato,204421,21633,319,3.96
+507,The Jungle,Upton Sinclair,145508,21555,299,3.77
+508,"City of Glass (The Mortal Instruments, #3)",Cassandra Clare,961672,21279,280,4.28
+509,A Christmas Carol,Charles Dickens,841572,21178,305,4.08
+510,Me Talk Pretty One Day,David Sedaris,698929,21160,287,4.01
+511,"Angels & Demons (Robert Langdon, #1)",Dan       Brown,3157813,21149,273,3.94
+512,"Voyager (Outlander, #3)",Diana Gabaldon,308275,21136,272,4.39
+513,"A Court of Wings and Ruin (A Court of Thorns and Roses, #3)",Sarah J. Maas,1540716,21114,242,4.48
+514,Snow Falling on Cedars,David Guterson,187002,21025,302,3.86
+515,"The Last Battle (Chronicles of Narnia, #7)",C.S. Lewis,276215,20963,308,4.01
+516,"Untamed (House of Night, #4)",P.C. Cast,235722,20937,272,3.94
+517,Everything is Illuminated,Jonathan Safran Foer,179587,20921,258,3.89
+518,"I, Claudius (Claudius, #1)",Robert Graves,66614,20917,284,4.24
+519,"The 5th Wave (The 5th Wave, #1)",Rick Yancey,457473,20878,253,4.01
+520,"Night  (The Night Trilogy, #1)",Elie Wiesel,1244964,20685,260,4.37
+521,Emma,Jane Austen,886313,20626,274,4.05
+522,The Nightingale,Kristin Hannah,1358999,20559,234,4.62
+523,A Room with a View,E.M. Forster,183954,20504,311,3.9
+524,Bleak House,Charles Dickens,108650,20177,282,4.02
+525,The War of the Worlds,H.G. Wells,314118,20033,301,3.83
+526,The Complete Poems of Emily Dickinson,Emily Dickinson,97730,19948,310,4.27
+527,"The Elite (The Selection, #2)",Kiera Cass,771055,19879,247,3.95
+528,"The Raven Boys (The Raven Cycle, #1)",Maggie Stiefvater,367523,19859,231,4.05
+529,"Chosen (House of Night, #3)",P.C. Cast,244633,19773,259,3.91
+530,"A Discovery of Witches (All Souls, #1)",Deborah Harkness,491168,19665,233,4.02
+531,انتحار فاشل,أحمد جمال الدين رمضان,3050,19650,200,4.58
+532,The Woman in White,Wilkie Collins,154445,19602,278,4.01
+533,Of Human Bondage,W. Somerset Maugham,57096,19516,272,4.14
+534,World War Z: An Oral History of the Zombie War,Max Brooks,525713,19502,248,4.02
+535,"The Bad Beginning (A Series of Unfortunate Events, #1)",Lemony Snicket,520965,19479,260,4.01
+536,"The Witching Hour (Lives of the Mayfair Witches, #1)",Anne Rice,117514,19475,260,4.1
+537,The God Delusion,Richard Dawkins,268040,19424,246,3.9
+538,North and South,Elizabeth Gaskell,169983,19271,251,4.15
+539,العصبي,أحمد جمال الدين رمضان,2650,19259,196,4.64
+540,Brideshead Revisited,Evelyn Waugh,113402,19215,261,4.0
+541,"The Two Towers (The Lord of the Rings, #2)",J.R.R. Tolkien,968958,19208,271,4.48
+542,Sense and Sensibility,Jane Austen,1190137,19146,269,4.08
+543,Ugly Love,Colleen Hoover,1817655,19111,213,4.05
+544,"Unwind (Unwind, #1)",Neal Shusterman,229243,19009,224,4.17
+545,"The Iron King (The Iron Fey, #1)",Julie Kagawa,212552,18889,232,3.88
+546,"Bloodlines (Bloodlines, #1)",Richelle Mead,185632,18779,239,4.2
+547,The Elephant Tree,R.D. Ronald,27025,18745,211,3.69
+548,"Wizard's First Rule (Sword of Truth, #1)",Terry Goodkind,246397,18729,225,4.12
+549,"Shadow and Bone (The Shadow and Bone Trilogy, #1)",Leigh Bardugo,959563,18532,225,3.93
+550,Snow Crash,Neal Stephenson,280071,18459,217,4.02
+551,Johnny Got His Gun,Dalton Trumbo,43965,18428,225,4.2
+552,Vanity Fair,William Makepeace Thackeray,128177,18295,265,3.8
+553,"Bared to You (Crossfire, #1)",Sylvia Day,526791,18246,214,4.14
+554,"Cannery Row (Cannery Row, #1)",John Steinbeck,137796,18168,265,4.06
+555,2001: A Space Odyssey,Arthur C. Clarke,313554,18159,247,4.17
+556,"Torment (Fallen, #2)",Lauren Kate,234784,18110,234,3.85
+557,The Left Hand of Darkness,Ursula K. Le Guin,182027,18076,230,4.1
+558,"Unravel Me (Shatter Me, #2)",Tahereh Mafi,542050,18074,213,4.14
+559,"Cry, the Beloved Country",Alan Paton,74788,18008,248,3.92
+560,Far From the Madding Crowd,Thomas Hardy,153341,17990,259,3.96
+561,Much Ado About Nothing,William Shakespeare,244303,17937,267,4.06
+562,Are You My Mother?,P.D. Eastman,243494,17870,267,4.21
+563,The Polar Express,Chris Van Allsburg,240701,17710,280,4.32
+564,"A Great and Terrible Beauty (Gemma Doyle, #1)",Libba Bray,222244,17702,219,3.8
+565,A Monster Calls,Patrick Ness,265660,17698,200,4.35
+566,Into Thin Air: A Personal Account of the Mount Everest Disaster,Jon Krakauer,505885,17496,246,4.24
+567,Sarah's Key,Tatiana de Rosnay,474869,17449,229,4.18
+568,"Words of Radiance (The Stormlight Archive, #2)",Brandon Sanderson,350116,17438,187,4.76
+569,"The Mortal Instruments Boxed Set: City of Bones; City of Ashes; City of Glass (The Mortal Instruments, #1-3)",Cassandra Clare,68250,17391,223,4.55
+570,"Little House on the Prairie (Little House, #3)",Laura Ingalls Wilder,290714,17377,274,4.21
+571,"The Red Pyramid (The Kane Chronicles, #1)",Rick Riordan,395811,17372,232,4.1
+572,"Chocolat (Chocolat, #1)",Joanne Harris,125702,17365,261,3.96
+573,"The Summoning (Darkest Powers, #1)",Kelley Armstrong,171724,17359,217,4.02
+574,"Halfway to the Grave (Night Huntress, #1)",Jeaniene Frost,157961,17318,207,4.13
+575,Macbeth,William Shakespeare,897827,17302,234,3.9
+576,"Perfect Chemistry (Perfect Chemistry, #1)",Simone Elkeles,259834,17248,203,4.04
+577,Just Listen,Sarah Dessen,246890,17210,208,4.05
+578,"Anne of Avonlea (Anne of Green Gables, #2)",L.M. Montgomery,198686,17091,268,4.22
+579,The Last Lecture,Randy Pausch,345357,17061,213,4.26
+580,"The Inheritance Games (The Inheritance Games, #1)",Jennifer Lynn Barnes,706870,17054,186,4.17
+581,"Silence (Hush, Hush, #3)",Becca Fitzpatrick,282866,16959,218,4.08
+582,Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time,Greg Mortenson,343886,16949,231,3.66
+583,"The Darkest Minds (The Darkest Minds, #1)",Alexandra Bracken,191962,16925,195,4.16
+584,I'll Give You the Sun,Jandy Nelson,335734,16917,187,4.16
+585,"The Horse and His Boy (Chronicles of Narnia, #5)",C.S. Lewis,350976,16908,258,3.91
+586,"Angelfall (Penryn & the End of Days, #1)",Susan Ee,190965,16902,193,4.11
+587,"Hyperion (Hyperion Cantos, #1)",Dan Simmons,252608,16872,199,4.26
+588,"Sabriel (Abhorsen,  #1)",Garth Nix,208067,16848,207,4.17
+589,"Little House in the Big Woods (Little House, #1)",Laura Ingalls Wilder,269098,16844,265,4.2
+590,"Empire of Storms (Throne of Glass, #5)",Sarah J. Maas,650640,16820,197,4.62
+591,The Truth About Forever,Sarah Dessen,222902,16758,205,4.12
+592,Twelfth Night,William Shakespeare,182682,16755,256,3.97
+593,Cutting for Stone,Abraham   Verghese,387060,16736,210,4.32
+594,Nine Stories,J.D. Salinger,147458,16702,223,4.18
+595,"Ishmael (Ishmael, #1)",Daniel Quinn,97452,16644,201,4.01
+596,"Du côté de chez Swann (À la recherche du temps perdu, #1)",Marcel Proust,60149,16639,212,4.14
+597,"The Unbecoming of Mara Dyer (Mara Dyer, #1)",Michelle Hodkin,182748,16599,190,4.02
+598,"Cress (The Lunar Chronicles, #3)",Marissa Meyer,369000,16545,200,4.41
+599,The Westing Game,Ellen Raskin,213024,16471,214,4.0
+600,"Trainspotting (Mark Renton, #2)",Irvine Welsh,167172,16460,204,4.1
+601,Lady Chatterley’s Lover,D.H. Lawrence,125635,16449,256,3.5
+602,"Call Me By Your Name (Call Me By Your Name, #1)",André Aciman,493157,16430,179,4.11
+603,"The Goose Girl (The Books of Bayern, #1)",Shannon Hale,143444,16381,202,4.14
+604,"I Am Number Four (Lorien Legacies, #1)",Pittacus Lore,341591,16356,209,3.94
+605,No Country for Old Men,Cormac McCarthy,200263,16327,220,4.16
+606,"Dead to the World (Sookie Stackhouse, #4)",Charlaine Harris,258910,16292,220,4.12
+607,The Art of War,Sun Tzu,488817,16219,225,3.96
+608,"Acheron (Dark-Hunter, #14)",Sherrilyn Kenyon,59749,16206,187,4.56
+609,"You Are Special (Wemmicksville, #1)",Max Lucado,52515,16082,190,4.45
+610,The Hours,Michael Cunningham,141246,16076,230,3.95
+611,"Scarlet (The Lunar Chronicles, #2)",Marissa Meyer,420014,16025,201,4.25
+612,I Capture the Castle,Dodie Smith,104363,16015,206,4.0
+613,Demian. Die Geschichte von Emil Sinclairs Jugend,Hermann Hesse,112330,16004,197,4.14
+614,"The Bronze Horseman (The Bronze Horseman, #1)",Paullina Simons,86411,16004,176,4.3
+615,"Slammed (Slammed, #1)",Colleen Hoover,363919,15949,181,4.17
+616,"The Last Unicorn (The Last Unicorn, #1)",Peter S. Beagle,119710,15940,204,4.18
+617,"Speaker for the Dead (Ender's Saga, #2)",Orson Scott Card,255315,15860,201,4.1
+618,"Drums of Autumn (Outlander, #4)",Diana Gabaldon,250513,15851,202,4.35
+619,The Glass Menagerie,Tennessee Williams,133466,15830,261,3.73
+620,Julius Caesar,William Shakespeare,203930,15784,250,3.7
+621,"The Wicked King (The Folk of the Air, #2)",Holly Black,752326,15744,178,4.31
+622,"The Talisman (The Talisman, #1)",Stephen King,129781,15674,208,4.12
+623,Cyrano de Bergerac,Edmond Rostand,84439,15659,225,4.06
+624,The Zombie Room,R.D. Ronald,28160,15552,176,3.74
+625,"World Without End (Kingsbridge, #2)",Ken Follett,250279,15551,208,4.31
+626,The Arabian Nights,Anonymous,77220,15417,231,4.03
+627,We Need to Talk About Kevin,Lionel Shriver,195139,15417,191,4.08
+628,Sapiens: A Brief History of Humankind,Yuval Noah Harari,1028087,15409,170,4.36
+629,"A Wizard of Earthsea (Earthsea Cycle, #1)",Ursula K. Le Guin,317339,15368,204,4.01
+630,Interpreter of Maladies,Jhumpa Lahiri,193389,15281,202,4.17
+631,"The Queen of the Damned (The Vampire Chronicles, #3)",Anne Rice,151962,15214,217,3.91
+632,"Hunted (House of Night, #5)",P.C. Cast,182678,15183,200,3.92
+633,"P.S. I Love You (P.S. I Love You, #1)",Cecelia Ahern,381187,15138,196,4.03
+634,"Fourth Wing (The Empyrean, #1)",Rebecca Yarros,1504502,15115,163,4.59
+635,"The Silver Chair (Chronicles of Narnia, #4)",C.S. Lewis,297748,15067,236,3.95
+636,"The Knife of Never Letting Go (Chaos Walking, #1)",Patrick Ness,193991,15017,171,3.97
+637,"The Queen of Nothing (The Folk of the Air, #3)",Holly Black,676673,14955,169,4.36
+638,"The Bean Trees (Greer Family, #1)",Barbara Kingsolver,157767,14863,218,4.0
+639,"A Dog's Purpose (A Dog's Purpose, #1)",W. Bruce Cameron,132674,14859,174,4.35
+640,"Wicked Lovely (Wicked Lovely, #1)",Melissa Marr,163230,14847,186,3.7
+641,Daisy Jones & The Six,Taylor Jenkins Reid,1487576,14730,162,4.21
+642,The Merchant of Venice,William Shakespeare,188087,14688,236,3.78
+643,Before I Fall,Lauren Oliver,337422,14666,176,3.89
+644,A Brief History of Time,Stephen Hawking,432108,14606,208,4.21
+645,All the King’s Men,Robert Penn Warren,63498,14552,201,4.09
+646,"Lover Eternal (Black Dagger Brotherhood, #2)",J.R. Ward,192945,14548,185,4.33
+647,"The Secret (The Secret, #1)",Rhonda Byrne,478118,14545,192,3.73
+648,"1Q84 (1Q84, #1-3)",Haruki Murakami,259657,14533,172,3.94
+649,One Day in the Life of Ivan Denisovich,Aleksandr Solzhenitsyn,114389,14523,211,3.98
+650,Invisible Monsters,Chuck Palahniuk,143547,14506,178,4.0
+651,"Carry On (Simon Snow, #1)",Rainbow Rowell,312016,14475,166,4.18
+652,"Inferno (Robert Langdon, #4)",Dan       Brown,550513,14452,182,3.89
+653,"The Lies of Locke Lamora (Gentleman Bastard, #1)",Scott Lynch,295976,14407,163,4.3
+654,"A Court of Mist and Fury (A Court of Thorns and Roses, #2)",Sarah J. Maas,1868601,14404,157,4.65
+655,"Inheritance (The Inheritance Cycle, #4)",Christopher Paolini,276156,14395,185,4.14
+656,I Am Legend and Other Stories,Richard Matheson,131337,14383,194,4.0
+657,"The Eyre Affair (Thursday Next, #1)",Jasper Fforde,132395,14368,182,3.89
+658,"The Scorch Trials (The Maze Runner, #2)",James Dashner,581259,14366,186,3.9
+659,House of Leaves,Mark Z. Danielewski,170136,14362,161,4.09
+660,"They Both Die at the End (They Both Die at the End Series, 1)",Adam Silvera,740899,14305,156,3.77
+661,"Prince Caspian (Chronicles of Narnia, #2)",C.S. Lewis,438172,14301,246,3.98
+662,Gravity’s Rainbow,Thomas Pynchon,44124,14293,167,4.0
+663,The Ocean at the End of the Lane,Neil Gaiman,618112,14290,167,4.02
+664,The Yellow Wallpaper and Other Stories,Charlotte Perkins Gilman,86148,14263,202,4.05
+665,The Silent Patient,Alex Michaelides,2168870,14245,163,4.18
+666,"To All the Boys I've Loved Before (To All the Boys I've Loved Before, #1)",Jenny Han,896451,14147,167,4.04
+667,"Into the Wild (Warriors, #1)",Erin Hunter,104765,14139,161,4.31
+668,The Glass Castle,Jeannette Walls,1212593,14117,174,4.31
+669,Foucault’s Pendulum,Umberto Eco,70062,14076,185,3.91
+670,Something Wicked This Way Comes,Ray Bradbury,133024,14037,190,3.91
+671,"Heartstopper: Volume One (Heartstopper, #1)",Alice Oseman,718778,13997,158,4.47
+672,Peace Like a River,Leif Enger,90397,13971,169,4.01
+673,We Have Always Lived in the Castle,Shirley Jackson,227119,13946,161,3.94
+674,The Love Hypothesis,Ali Hazelwood,1386334,13935,151,4.15
+675,Mythology,Edith Hamilton,55533,13915,210,4.03
+676,"Poison Study (Study, #1)",Maria V. Snyder,165657,13906,168,4.1
+677,The Girl on the Train,Paula Hawkins,2943325,13879,177,3.96
+678,"Oedipus Rex  (The Theban Plays, #1)",Sophocles,216720,13802,207,3.72
+679,"City of Ashes (The Mortal Instruments, #2)",Cassandra Clare,934204,13788,196,4.11
+680,"Oryx and Crake (MaddAddam, #1)",Margaret Atwood,266548,13769,176,4.01
+681,Seabiscuit: An American Legend,Laura Hillenbrand,162769,13656,199,4.22
+682,The Night Before Christmas,Clement Clarke Moore,122886,13633,220,4.39
+683,The Bluest Eye,Toni Morrison,252741,13621,178,4.11
+684,"The Bourne Identity (Jason Bourne, #1)",Robert Ludlum,432186,13591,200,4.05
+685,The Memory Keeper's Daughter,Kim Edwards,600261,13581,191,3.7
+686,Dandelion Wine,Ray Bradbury,70282,13571,169,4.08
+687,Battle Royale,Koushun Takami,75816,13561,155,4.26
+688,A Man Called Ove,Fredrik Backman,1032016,13555,156,4.38
+689,"Where She Went (If I Stay, #2)",Gayle Forman,295026,13537,171,3.98
+690,A People’s History of the United States,Howard Zinn,243666,13520,185,4.08
+691,Native Son,Richard Wright,99112,13433,195,4.03
+692,The History of Love,Nicole Krauss,135694,13420,162,3.92
+693,On Writing: A Memoir of the Craft,Stephen King,287695,13413,176,4.34
+694,The Holy Bible: King James Version,Anonymous,292695,13409,166,4.44
+695,"Left Behind (Left Behind, #1)",Tim LaHaye,233359,13374,180,3.85
+696,"Twenty Thousand Leagues Under the Sea (Captain Nemo, #2)",Jules Verne,253447,13368,197,3.89
+697,Verity,Colleen Hoover,2676461,13360,144,4.32
+698,"Gone (Gone, #1)",Michael  Grant,201506,13299,159,3.86
+699,"The Killer Angels (The Civil War Trilogy, #2)",Michael Shaara,86102,13251,171,4.33
+700,If on a Winter’s Night a Traveler,Italo Calvino,97948,13229,162,4.03
+701,"Assassin's Apprentice (Farseer Trilogy, #1)",Robin Hobb,326446,13180,160,4.18
+702,"Darkfever (Fever, #1)",Karen Marie Moning,181127,13166,170,4.06
+703,"Night Watch (Discworld, #29; City Watch, #6)",Terry Pratchett,110740,13119,163,4.49
+704,"The Blood of Olympus (The Heroes of Olympus, #5)",Rick Riordan,330009,13109,171,4.43
+705,Watchers,Dean Koontz,164375,13088,165,4.18
+706,"Champion (Legend, #3)",Marie Lu,217718,13062,156,4.32
+707,"Shadowfever (Fever, #5)",Karen Marie Moning,108861,12995,151,4.39
+708,Rosencrantz and Guildenstern Are Dead,Tom Stoppard,89499,12988,181,4.04
+709,"The Dark Tower (The Dark Tower, #7)",Stephen King,173189,12955,165,4.28
+710,"Alanna: The First Adventure (Song of the Lioness, #1)",Tamora Pierce,130463,12931,161,4.27
+711,John Adams,David McCullough,361280,12930,177,4.07
+712,The Magus,John Fowles,58613,12917,166,4.05
+713,"The Fiery Cross (Outlander, #5)",Diana Gabaldon,210727,12915,169,4.26
+714,The Wasp Factory,Iain Banks,96862,12905,156,3.77
+715,"Dome: Rebellion (Dome, #1)",Johnathon Nicolaou,244,12873,134,4.51
+716,"Red Rising (Red Rising Saga, #1)",Pierce Brown,433520,12852,146,4.27
+717,The Long Walk,Richard Bachman,185854,12848,154,4.08
+718,Miracle,Johnathon Nicolaou,203,12844,134,4.52
+719,"A Breath of Snow and Ashes (Outlander, #6)",Diana Gabaldon,177836,12746,165,4.44
+720,Possession,A.S. Byatt,80218,12691,173,3.89
+721,"Simon vs. the Homo Sapiens Agenda (Simonverse, #1)",Becky Albertalli,434209,12684,143,4.16
+722,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,210734,12681,177,4.16
+723,House of Sand and Fog,Andre Dubus III,133002,12679,181,3.86
+724,Of Monsters And Planes,Johnathon Nicolaou,217,12671,134,4.61
+725,The Blind Assassin,Margaret Atwood,155499,12654,175,3.96
+726,"Pretties (Uglies, #2)",Scott Westerfeld,261715,12636,172,3.84
+727,Grimm's Fairy Tales,Jacob Grimm,27852,12631,213,4.12
+728,"One for the Money (Stephanie Plum, #1)",Janet Evanovich,551024,12602,172,4.05
+729,Papillon,Henri Charrière,69860,12591,175,4.23
+730,"Lover Unbound (Black Dagger Brotherhood, #5)",J.R. Ward,134714,12546,165,4.31
+731,"Kingdom of Ash (Throne of Glass, #7)",Sarah J. Maas,538256,12538,141,4.69
+732,The Sirens of Titan,Kurt Vonnegut Jr.,141480,12452,154,4.15
+733,Veronika Decides to Die,Paulo Coelho,221331,12287,152,3.73
+734,The Agony and the Ecstasy,Irving Stone,90505,12276,163,4.09
+735,Bury My Heart at Wounded Knee: An Indian History of the American West,Dee Brown,92613,12217,193,4.25
+736,Cosmos,Carl Sagan,146288,12172,163,4.39
+737,Geek Love,Katherine Dunn,67530,12107,149,3.96
+738,"Death on the Nile (Hercule Poirot, #18)",Agatha Christie,259265,12062,190,4.12
+739,Normal People,Sally Rooney,1386169,12028,130,3.81
+740,Sharp Objects,Gillian Flynn,1041290,12016,143,4.02
+741,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,Steven D. Levitt,851267,11989,159,4.01
+742,How to Win Friends and Influence People,Dale Carnegie,980012,11941,166,4.22
+743,A Heartbreaking Work of Staggering Genius,Dave Eggers,180514,11919,153,3.69
+744,Corelli’s Mandolin,Louis de Bernières,86751,11887,161,4.02
+745,"Odd Thomas (Odd Thomas, #1)",Dean Koontz,268683,11884,163,3.99
+746,"The Sisterhood of the Traveling Pants (Sisterhood, #1)",Ann Brashares,705099,11880,170,3.84
+747,Prodigal Summer,Barbara Kingsolver,114438,11869,163,4.03
+748,The Iliad,Homer,454941,11860,156,3.91
+749,Under the Dome,Stephen King,300028,11829,164,3.92
+750,Jitterbug Perfume,Tom Robbins,76628,11800,149,4.23
+751,Anthem,Ayn Rand,155695,11737,155,3.62
+752,"The Hero of Ages (Mistborn, #3)",Brandon Sanderson,426851,11733,136,4.53
+753,The Aeneid,Virgil,130261,11731,171,3.86
+754,The Trigger: Hunting the Assassin Who Brought the World to War,Tim Butcher,3887,11723,121,3.8
+755,Howl and Other Poems,Allen Ginsberg,111485,11714,165,4.13
+756,The Witch of Blackbird Pond,Elizabeth George Speare,152309,11714,169,4.02
+757,"Tempted (House of Night, #6)",P.C. Cast,167324,11696,161,3.95
+758,The Book of Mormon: Another Testament of Jesus Christ,Joseph Smith Jr.,86569,11660,128,4.24
+759,"The Death Cure (The Maze Runner, #3)",James Dashner,449094,11658,152,3.78
+760,"I'd Tell You I Love You, But Then I'd Have to Kill You (Gallagher Girls, #1)",Ally Carter,189028,11653,146,3.84
+761,The Elegance of the Hedgehog,Muriel Barbery,184470,11651,148,3.8
+762,"The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency, #1)",Alexander McCall Smith,265161,11620,179,3.81
+763,"The Murder of Roger Ackroyd (Hercule Poirot, #4)",Agatha Christie,274321,11605,162,4.27
+764,"The Alienist (Dr. Laszlo Kreizler, #1)",Caleb Carr,173101,11603,165,4.06
+765,"The Big Sleep (Philip Marlowe, #1)",Raymond Chandler,155411,11557,158,3.95
+766,"Prodigy (Legend, #2)",Marie Lu,262876,11547,142,4.23
+767,"Love Story (Love Story, #1)",Erich Segal,60601,11519,179,3.64
+768,"A ​Court of Silver Flames (A Court of Thorns and Roses, #4)",Sarah J. Maas,1086513,11427,130,4.47
+769,"Caraval (Caraval, #1)",Stephanie Garber,519903,11396,124,3.99
+770,Mistress Suffragette,Diana   Forbes,4568,11360,127,4.29
+771,Message in a Bottle,Nicholas Sparks,238312,11351,164,3.97
+772,Ivanhoe,Walter Scott,94798,11315,172,3.76
+773,"Ender's Shadow (The Shadow Series, #1)",Orson Scott Card,172074,11302,144,4.32
+774,Educated,Tara Westover,1526188,11266,128,4.47
+775,"Rubinrot (Edelstein-Trilogie, #1)",Kerstin Gier,154294,11228,131,4.13
+776,The Story of My Life,Helen Keller,147396,11203,189,4.08
+777,The Magic Mountain,Thomas Mann,49459,11196,143,4.13
+778,"One Fish, Two Fish, Red Fish, Blue Fish",Dr. Seuss,203782,11190,187,4.18
+779,It's Kind of a Funny Story,Ned Vizzini,251324,11189,129,4.08
+780,"A Canticle for Leibowitz (St. Leibowitz, #1)",Walter M. Miller Jr.,109570,11173,149,3.98
+781,"Confessions of a Shopaholic (Shopaholic, #1)",Sophie Kinsella,751600,11140,147,3.69
+782,Song of Solomon,Toni Morrison,112939,11108,158,4.14
+783,Swan Song,Robert McCammon,68125,11103,126,4.29
+784,Walk Two Moons,Sharon Creech,167592,11051,142,3.99
+785,"Princess Academy (Princess Academy, #1)",Shannon Hale,116606,11047,152,4.03
+786,The Corrections,Jonathan Franzen,182778,11034,150,3.83
+787,"Fablehaven (Fablehaven, #1)",Brandon Mull,165131,11015,137,4.13
+788,"One of Us Is Lying (One of Us is Lying, #1)",Karen M. McManus,846134,11012,122,3.94
+789,"Club Dead (Sookie Stackhouse, #3)",Charlaine Harris,236308,11006,160,4.02
+790,Hard-Boiled Wonderland and the End of the World,Haruki Murakami,136488,11004,134,4.13
+791,"The Color of Magic (Discworld, #1; Rincewind, #1)",Terry Pratchett,387649,10996,153,4.0
+792,"Antigone (The Theban Plays, #3)",Sophocles,153644,10966,168,3.67
+793,Digital Fortress,Dan       Brown,636446,10963,142,3.69
+794,Angle of Repose,Wallace Stegner,59189,10905,140,4.24
+795,The Invention of Hugo Cabret,Brian Selznick,183130,10899,144,4.22
+796,The Shell Seekers,Rosamunde Pilcher,110903,10888,166,4.19
+797,"Lover Revealed (Black Dagger Brotherhood, #4)",J.R. Ward,137185,10884,145,4.29
+798,Ficciones,Jorge Luis Borges,67805,10867,132,4.42
+799,Around the World in Eighty Days,Jules Verne,247859,10839,173,3.94
+800,"House of Earth and Blood (Crescent City, #1)",Sarah J. Maas,669081,10835,123,4.49
+801,The Power of Myth,Joseph Campbell,51194,10818,152,4.26
+802,"Glass Houses (The Morganville Vampires, #1)",Rachel Caine,100851,10769,139,3.92
+803,The Jungle Books,Rudyard Kipling,87464,10763,180,4.01
+804,Orlando,Virginia Woolf,93163,10731,146,3.87
+805,Archer's Voice,Mia Sheridan,449152,10719,122,4.23
+806,"Small Gods (Discworld, #13)",Terry Pratchett,121493,10706,136,4.32
+807,"The Edge of Never (The Edge of Never, #1)",J.A. Redmerski,148645,10700,125,4.22
+808,Because of Winn-Dixie,Kate DiCamillo,257115,10692,154,4.09
+809,Tales of Old: Greek Mythology: Volume 1,Johnathon Nicolaou,183,10690,115,4.34
+810,"Living Dead in Dallas (Sookie Stackhouse, #2)",Charlaine Harris,252926,10667,150,3.96
+811,"An Ember in the Ashes (An Ember in the Ashes, #1)",Sabaa Tahir,293078,10666,121,4.25
+812,"The Passage (The Passage, #1)",Justin Cronin,212001,10646,131,4.04
+813,Naked Lunch,William S. Burroughs,91253,10637,132,3.46
+814,"Lover Avenged (Black Dagger Brotherhood, #7)",J.R. Ward,115620,10636,142,4.36
+815,One Day,David Nicholls,341544,10604,130,3.83
+816,"Cryptonomicon (Crypto, #1)",Neal Stephenson,112214,10579,127,4.24
+817,The Omnivore's Dilemma: A Natural History of Four Meals,Michael Pollan,204135,10497,138,4.18
+818,Chasing the Devil: The Search for Africa's Fighting Spirit,Tim Butcher,1871,10485,107,4.13
+819,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,740427,10465,150,4.16
+820,Jude the Obscure,Thomas Hardy,71806,10446,155,3.83
+821,"Mary Poppins (Mary Poppins, #1)",P.L. Travers,133491,10439,191,4.01
+822,My Name Is Asher Lev,Chaim Potok,41389,10379,141,4.23
+823,An Abundance of Katherines,John Green,528882,10368,128,3.52
+824,The Moon Is a Harsh Mistress,Robert A. Heinlein,130497,10346,132,4.16
+825,Still Alice,Lisa Genova,341688,10330,132,4.32
+826,The Portrait of a Lady,Henry James,80535,10318,152,3.79
+827,Howards End,E.M. Forster,89648,10317,157,3.96
+828,"The House in the Cerulean Sea (The House in the Cerulean Sea, #1)",T.J. Klune,627611,10315,116,4.41
+829,If We Were Villains,M.L. Rio,272658,10305,111,4.17
+830,"Fire (Graceling Realm, #2)",Kristin Cashore,185883,10249,139,4.1
+831,"Mort (Discworld, #4; Death, #1)",Terry Pratchett,246140,10232,136,4.24
+832,Holy Bible: New International Version,Anonymous,87990,10182,129,4.61
+833,Choke,Chuck Palahniuk,210464,10164,133,3.71
+834,The Namesake,Jhumpa Lahiri,269659,10162,143,4.01
+835,"A Darker Shade of Magic (Shades of Magic, #1)",V.E.  Schwab,361758,10135,115,4.06
+836,"Worm Holes (Quantum Roots, #2)",Kyle Keyes,2100,10073,112,4.33
+837,Meditations,Marcus Aurelius,247917,10064,126,4.28
+838,Starship Troopers,Robert A. Heinlein,228030,10055,132,4.01
+839,Wild Swans: Three Daughters of China,Jung Chang,112987,10045,136,4.28
+840,Let the Right One In,John Ajvide Lindqvist,111148,10014,123,4.04
+841,"The Eden Paradox (Eden Paradox, #1)",Barry Kirwan,15787,10002,110,4.24
+842,"The Restaurant at the End of the Universe (The Hitchhiker's Guide to the Galaxy, #2)",Douglas Adams,287664,9956,143,4.21
+843,I Am the Messenger,Markus Zusak,160816,9918,117,4.03
+844,"Finale (Hush, Hush, #4)",Becca Fitzpatrick,175242,9900,126,4.12
+845,"Linger (The Wolves of Mercy Falls, #2)",Maggie Stiefvater,169644,9883,134,3.88
+846,The Forgotten Garden,Kate Morton,222819,9782,125,4.15
+847,Ethan Frome,Edith Wharton,127288,9772,143,3.44
+848,Tender Is the Night,F. Scott Fitzgerald,136573,9770,142,3.79
+849,"The Assassin's Blade (Throne of Glass, #0.1-0.5)",Sarah J. Maas,578142,9753,120,4.24
+850,Pale Fire,Vladimir Nabokov,50752,9741,125,4.17
+851,Survivor,Chuck Palahniuk,118329,9736,122,3.93
+852,Shutter Island,Dennis Lehane,194990,9732,130,4.12
+853,Mystic River,Dennis Lehane,145118,9655,139,4.17
+854,"Winter (The Lunar Chronicles, #4)",Marissa Meyer,279422,9626,115,4.42
+855,The Bridges of Madison County,Robert James Waller,97114,9615,152,3.69
+856,Exodus,Leon Uris,99168,9592,153,4.34
+857,Gift from the Sea,Anne Morrow Lindbergh,51252,9591,137,4.15
+858,Taming Flame,Therisa Peimer,6710,9578,101,4.32
+859,Keeper of the Lost Cities,Shannon Messenger,78642,9572,105,4.42
+860,Illusions: The Adventures of a Reluctant Messiah,Richard Bach,64038,9570,124,4.15
+861,"Daughter of the Forest  (Sevenwaters, #1)",Juliet Marillier,65258,9543,115,4.28
+862,"The Hunt for Red October (Jack Ryan, #3)",Tom Clancy,374606,9525,142,4.11
+863,"Walking Disaster (Beautiful, #2)",Jamie McGuire,197801,9525,117,4.15
+864,"The Well of Ascension (Mistborn, #2)",Brandon Sanderson,468526,9525,113,4.38
+865,"Forrest Gump (Forrest Gump, #1)",Winston Groom,68549,9518,156,4.02
+866,"Scythe (Arc of a Scythe, #1)",Neal Shusterman,314576,9505,104,4.33
+867,The Sea of Tranquility,Katja Millay,86448,9468,109,4.29
+868,Revolutionary Road,Richard Yates,88312,9436,124,3.92
+869,Nausea,Jean-Paul Sartre,119338,9400,123,3.94
+870,"The Awakening (Darkest Powers, #2)",Kelley Armstrong,115324,9390,126,4.14
+871,"84, Charing Cross Road",Helene Hanff,83417,9374,137,4.16
+872,Cold Sassy Tree,Olive Ann Burns,103256,9365,134,4.02
+873,"Absalom, Absalom!",William Faulkner,44543,9285,121,3.98
+874,"Kane & Abel (Kane & Abel, #1)",Jeffrey Archer,121963,9262,109,4.33
+875,The Hotel New Hampshire,John Irving,65614,9260,132,3.93
+876,"The Millennium Trilogy (Millennium Trilogy, #1-3)",Stieg Larsson,55519,9260,124,4.47
+877,A Walk in the Woods: Rediscovering America on the Appalachian Trail,Bill Bryson,409822,9236,129,4.06
+878,The Fall,Albert Camus,106530,9226,120,4.04
+879,"The Reckoning (Darkest Powers, #3)",Kelley Armstrong,116457,9225,123,4.18
+880,"Dreamfever (Fever, #4)",Karen Marie Moning,102132,9213,116,4.38
+881,"Specials (Uglies, #3)",Scott Westerfeld,190733,9173,130,3.76
+882,Shakespeare's Sonnets,William Shakespeare,104784,9172,148,4.25
+883,Dark Places,Gillian Flynn,751452,9153,112,3.95
+884,"The City of Ember (Book of Ember, #1)",Jeanne DuPrau,281753,9147,128,3.89
+885,The Maltese Falcon,Dashiell Hammett,107018,9147,139,3.88
+886,Between Shades of Gray,Ruta Sepetys,242792,9135,111,4.37
+887,"A Study in Scarlet (Sherlock Holmes, #1)",Arthur Conan Doyle,444580,9115,138,4.14
+888,The Sorrows of Young Werther,Johann Wolfgang von Goethe,131307,9106,115,3.69
+889,Pericles and Aspasia: A Story of Ancient Greece,Yvonne Korshak,8641,9092,96,4.31
+890,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,429585,9091,125,4.27
+891,"Gabriel's Inferno (Gabriel's Inferno, #1)",Sylvain Reynard,158406,9058,106,3.98
+892,"The Sparrow (The Sparrow, #1)",Mary Doria Russell,75560,9045,112,4.14
+893,"Dead as a Doornail (Sookie Stackhouse, #5)",Charlaine Harris,217433,9043,133,4.01
+894,"Reflected in You (Crossfire, #2)",Sylvia Day,350746,9037,111,4.3
+895,Where the Heart Is,Billie Letts,248496,8959,138,4.03
+896,A Million Little Pieces,James Frey,253039,8923,117,3.68
+897,The Gargoyle,Andrew  Davidson,49098,8914,108,3.97
+898,"Guilty Pleasures (Anita Blake, Vampire Hunter, #1)",Laurell K. Hamilton,148112,8901,121,4.02
+899,A Moveable Feast,Ernest Hemingway,151157,8876,126,4.02
+900,"Wizard and Glass (The Dark Tower, #4)",Stephen King,199292,8860,117,4.26
+901,A Connecticut Yankee in King Arthur's Court,Mark Twain,103501,8852,138,3.77
+902,"Opal (Lux, #3)",Jennifer L. Armentrout,151608,8832,114,4.25
+903,"Definitely Dead (Sookie Stackhouse, #6)",Charlaine Harris,203998,8824,132,4.01
+904,We,Yevgeny Zamyatin,97238,8819,112,3.89
+905,"One Foot in the Grave (Night Huntress, #2)",Jeaniene Frost,104914,8793,112,4.29
+906,A Room of One’s Own,Virginia Woolf,207371,8786,126,4.21
+907,Christy,Catherine Marshall,54565,8786,133,4.24
+908,"The Golden Lily (Bloodlines, #2)",Richelle Mead,118413,8776,118,4.31
+909,"Lover Mine (Black Dagger Brotherhood, #8)",J.R. Ward,113148,8766,121,4.39
+910,Turtles All the Way Down,John Green,564786,8743,100,3.89
+911,The Pact,Jodi Picoult,308198,8742,117,4.03
+912,"The Amulet of Samarkand (Bartimaeus, #1)",Jonathan Stroud,128281,8738,106,4.03
+913,Deception Point,Dan       Brown,664773,8702,114,3.75
+914,"Crank (Crank, #1)",Ellen Hopkins,145570,8690,110,4.16
+915,Stoner,John  Williams,166285,8690,97,4.33
+916,"Burned (House of Night, #7)",P.C. Cast,158390,8663,126,3.97
+917,Journey to the End of the Night,Louis-Ferdinand Céline,42095,8652,102,4.19
+918,The Fountainhead,Ayn Rand,323422,8634,107,3.88
+919,The Story of Edgar Sawtelle,David Wroblewski,98783,8630,116,3.64
+920,"Tai-Pan (Asian Saga, #2)",James Clavell,52947,8620,118,4.29
+921,"Pandemonium (Delirium, #2)",Lauren Oliver,239184,8620,104,4.03
+922,The Runaway Jury,John Grisham,303627,8604,133,4.02
+923,"Onyx (Lux, #2)",Jennifer L. Armentrout,181603,8532,111,4.24
+924,The Lucky One,Nicholas Sparks,361878,8521,116,4.12
+925,Beach Music,Pat Conroy,50711,8518,119,4.18
+926,The Midnight Library,Matt Haig,1768012,8518,101,4.0
+927,The Bonfire of the Vanities,Tom Wolfe,80886,8510,132,3.9
+928,The Turn of the Screw,Henry James,156038,8510,127,3.39
+929,The Brief Wondrous Life of Oscar Wao,Junot Díaz,263655,8487,113,3.89
+930,"Night World, No. 1 (Night World, #1-3)",L.J. Smith,64872,8473,110,4.06
+931,Still Life with Woodpecker,Tom Robbins,80178,8466,114,4.04
+932,Childhood’s End,Arthur C. Clarke,159421,8462,115,4.12
+933,Valley of the Dolls,Jacqueline Susann,67796,8440,126,3.83
+934,The Dead Zone,Stephen King,223135,8432,122,3.96
+935,Sometimes a Great Notion,Ken Kesey,22472,8394,106,4.26
+936,The Poetry of Robert Frost,Robert Frost,47846,8373,145,4.24
+937,The Complete Persepolis,Marjane Satrapi,181379,8370,116,4.39
+938,How Green Was My Valley,Richard Llewellyn,17419,8368,123,4.2
+939,"Easy (Contours of the Heart, #1)",Tammara Webber,227302,8346,103,4.08
+940,"All Together Dead (Sookie Stackhouse, #7)",Charlaine Harris,201097,8342,122,4.05
+941,Animal Farm / 1984,George Orwell,198420,8310,131,4.3
+942,Thus Spoke Zarathustra,Friedrich Nietzsche,151419,8310,101,4.07
+943,The Immortal Life of Henrietta Lacks,Rebecca Skloot,735261,8304,112,4.12
+944,The House of Mirth,Edith Wharton,97925,8298,119,3.97
+945,"From Dead to Worse (Sookie Stackhouse, #8)",Charlaine Harris,188521,8281,121,4.01
+946,The Bhagavad Gita,Krishna-Dwaipayana Vyasa,72088,8268,122,4.18
+947,"The Wedding (The Notebook, #2)",Nicholas Sparks,160888,8256,110,3.99
+948,"Hatchet (Brian's Saga, #1)",Gary Paulsen,393044,8254,118,3.78
+949,Beauty: A Retelling of the Story of Beauty and the Beast,Robin McKinley,79895,8246,105,4.05
+950,Safe Haven,Nicholas Sparks,382519,8246,108,4.22
+951,"The Ruins of Gorlan (Ranger's Apprentice, #1)",John Flanagan,159230,8241,100,4.25
+952,On Earth We're Briefly Gorgeous,Ocean Vuong,299798,8226,89,4.04
+953,"Thoughtless (Thoughtless, #1)",S.C. Stephens,140277,8216,93,4.08
+954,"The Mysterious Benedict Society (The Mysterious Benedict Society, #1)",Trenton Lee Stewart,161260,8214,101,4.2
+955,On the Beach,Nevil Shute,44593,8207,124,3.97
+956,"Breaking Dawn (The Twilight Saga, #4)",Stephenie Meyer,1707152,8196,111,3.74
+957,"Lady Midnight (The Dark Artifices, #1)",Cassandra Clare,228078,8167,100,4.36
+958,"Redwall (Redwall, #1)",Brian Jacques,119366,8156,117,4.14
+959,"The Drawing of the Three (The Dark Tower, #2)",Stephen King,262114,8141,111,4.23
+960,"Roll of Thunder, Hear My Cry (Logans, #4)",Mildred D. Taylor,124875,8139,115,3.89
+961,"Dead and Gone (Sookie Stackhouse, #9)",Charlaine Harris,188516,8111,123,4.02
+962,"Will Grayson, Will Grayson",John Green,397847,8085,97,3.7
+963,"Passion (Fallen, #3)",Lauren Kate,168458,8076,113,3.86
+964,White Noise,Don DeLillo,115143,8074,108,3.86
+965,Helter Skelter: The True Story of the Manson Murders,Vincent Bugliosi,145906,8064,120,4.06
+966,The Dispossessed: An Ambiguous Utopia,Ursula K. Le Guin,125055,8058,103,4.25
+967,"Everything, Everything",Nicola Yoon,620747,8054,92,3.98
+968,This Lullaby,Sarah Dessen,178680,8045,103,4.02
+969,"Red Dragon (Hannibal Lecter, #1)",Thomas  Harris,333377,8004,113,4.06
+970,Heartless,Marissa Meyer,199066,8001,88,4.09
+971,"The Monarch's Ring (The Lost Artefacts, #2)",Johnathon Nicolaou,260,7988,82,4.48
+972,The Rime of the Ancient Mariner,Samuel Taylor Coleridge,59091,7949,128,3.96
+973,Light in August,William Faulkner,61913,7915,113,3.94
+974,The Story of Ferdinand,Munro Leaf,92133,7898,118,4.37
+975,"Faefever (Fever, #3)",Karen Marie Moning,103566,7896,102,4.29
+976,"Bitten (Otherworld, #1)",Kelley Armstrong,102234,7885,99,4.03
+977,Disgrace,J.M. Coetzee,106344,7826,112,3.85
+978,Silas Marner,George Eliot,86989,7825,126,3.68
+979,"The Awakening / The Struggle (The Vampire Diaries, #1-2)",L.J. Smith,90636,7797,106,3.68
+980,"From Blood and Ash (Blood and Ash, #1)",Jennifer L. Armentrout,568094,7791,84,4.24
+981,"Tiger's Curse (The Tiger Saga, #1)",Colleen Houck,64132,7778,92,4.05
+982,"Fantasy Lover (Hunter Legends, #1)",Sherrilyn Kenyon,93000,7767,102,4.15
+983,"Wings (Wings, #1)",Aprilynne Pike,80988,7766,98,3.76
+984,Becoming,Michelle Obama,1047954,7762,87,4.46
+985,A Doll's House,Henrik Ibsen,145125,7731,131,3.76
+986,The Tempest,William Shakespeare,209856,7685,121,3.79
+987,"All the Pretty Horses (The Border Trilogy, #1)",Cormac McCarthy,124024,7665,111,4.04
+988,Running with Scissors,Augusten Burroughs,390646,7625,104,3.76
+989,Project Hail Mary,Andy Weir,566084,7619,86,4.51
+990,The Far Pavilions,M.M. Kaye,44005,7618,106,4.2
+991,گم شده ای در مه,سید مرتضی مصطفوی,697,7587,77,3.78
+992,"God Is the Cure, Love Is the Answer: A Memoir",Aimee Cabo Nikolov,17232,7587,81,4.3
+993,"Hogfather (Discworld, #20; Death, #4)",Terry Pratchett,94423,7578,103,4.25
+994,"These Is My Words: The Diary of Sarah Agnes Prine, 1881-1901, Arizona Territories (Sarah Agnes Prine, #1)",Nancy E. Turner,74713,7572,91,4.35
+995,"Every Day (Every Day, #1)",David Levithan,233779,7569,88,3.9
+996,The Horse Whisperer,Nicholas Evans,58616,7537,119,3.85
+997,The Guardian,Nicholas Sparks,182716,7526,105,4.16
+998,Songs of Innocence and of Experience,William Blake,48868,7520,117,4.09
+999,"The Last of the Mohicans (The Leatherstocking Tales, #2)",James Fenimore Cooper,97950,7518,122,3.7
